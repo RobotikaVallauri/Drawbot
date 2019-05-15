@@ -1,0 +1,93 @@
+Estensione "Dia Input" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: extensions
+  stringa: dia2svg.sh
+  descrizione: Lo script dia2svg dovrebbe venire installato insieme ad Inkscape.Se non è presente, è probabile che vi sia qualche problema nell'installazione
+
+Estensione "Dia Input" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: dia
+  descrizione: Per importare file Dia, Dia deve essere installato. Lo si può reperire presso http://live.gnome.org/Dia/
+
+Estensione "DXF Output" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: extensions
+  stringa: ps2dxf.sh
+
+Estensione "DXF Output" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: pstoedit
+  descrizione: pstoedit deve essere installato; consultare http://www.pstoedit.net/pstoedit
+
+Estensione "EPS Input" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: ps2pdf
+
+Estensione "LaTeX formula" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: latex
+
+Estensione "LaTeX formula" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: dvips
+
+Estensione "LaTeX formula" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: pstoedit
+
+Estensione "XFIG Input" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: fig2dev
+
+Estensione "GIMP XCF" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: gimp
+
+Estensione "Text Outline Input" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: perl
+
+Estensione "PostScript Input" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: ps2pdf
+
+Estensione "Sketch Input" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: extensions
+  stringa: sk2svg.sh
+
+Estensione "Sketch Input" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: skconvert
+
+Estensione "Text Input" non caricata perchè una dipendenza non è stata soddisfatta.
+Dipendenza:
+  tipo: executable
+  posizione: tracciato
+  stringa: perl
+
